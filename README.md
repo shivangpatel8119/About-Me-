@@ -96,4 +96,4 @@ Entry-level / Fresher Data Analyst opportunities where I can apply SQL, Power BI
 
 ## Connect
 
-LinkedIn: Add your LinkedIn profile URL here
+LinkedIn: https://www.linkedin.com/in/shivang-patel-2128052005s/
